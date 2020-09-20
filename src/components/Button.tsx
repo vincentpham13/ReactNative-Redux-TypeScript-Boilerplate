@@ -5,7 +5,7 @@ import {
   StyleSheet,
   TouchableOpacityProps
 } from "react-native";
-import { colors } from "../constants";
+import { colors } from "@/constants";
 
 interface Props extends TouchableOpacityProps {
   text: string;

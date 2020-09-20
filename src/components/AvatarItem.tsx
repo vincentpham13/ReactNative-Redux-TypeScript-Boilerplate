@@ -6,7 +6,7 @@ import {
   ViewProps,
   ImageBackground
 } from "react-native";
-import { colors } from "../constants";
+import { colors } from "@/constants";
 
 interface Props extends ViewProps {
   title: string;

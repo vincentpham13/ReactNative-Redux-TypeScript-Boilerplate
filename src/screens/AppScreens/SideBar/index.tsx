@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { View, StyleSheet } from "react-native";
 import { NavigationScreenProp, NavigationState } from "react-navigation";
-import { colors } from "../../../constants";
-import { ListItem } from "../../../components/ListItem";
+import { colors } from "@/constants";
+import { ListItem } from "@/components/ListItem";
 
 interface Props {
   navigation: NavigationScreenProp<NavigationState>;

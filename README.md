@@ -31,3 +31,8 @@ $ npm install
 ### Run on Android
 
 - Run `react-native run-android` in your terminal
+
+### Included Features
+- [x] Base directory to resolve non-relative module names
+- [ ] Navigation
+- [ ] Basic push notification
